@@ -1,9 +1,4 @@
 #!/usr/bin/env bash
-##################################################
-# Purpose : To automate the testing of the query
-# Author  : Thomas George Thomas
-##################################################
-
 if [ -d "result" ]
 then 		
 	echo ""
