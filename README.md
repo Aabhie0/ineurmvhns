@@ -7,7 +7,7 @@ Solving analytical questions on the semi-structured [MovieLens dataset](https://
 
 <p align="center">
 	<a href="#">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark Logo" title="Apache Spark" width=275 hspace=80 />
+		https://www.edureka.co/blog/wp-content/uploads/2016/10/HADOOP-ECOSYSTEM-Edureka.png
 	</a>	
 </p>
 
