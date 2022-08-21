@@ -5,11 +5,7 @@ Solving analytical questions on the semi-structured [MovieLens dataset](https://
 
 # Major Components
 
-<p align="center">
-	<a href="#">
-		https://www.edureka.co/blog/wp-content/uploads/2016/10/HADOOP-ECOSYSTEM-Edureka.png
-	</a>	
-</p>
+scala hadoop etc
 
 # Environment
 * Linux (Ubuntu 15.04)
